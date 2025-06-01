@@ -5,4 +5,3 @@ Try searching the hash on VirusTotal and check the Community section sometimes u
 
 Discover in this github, something missing or delete. 
 
-edit
