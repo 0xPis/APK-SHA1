@@ -5,5 +5,4 @@ Try searching the hash on VirusTotal and check the Community section sometimes u
 
 Discover in this github, something missing or delete. 
 
-
-https://gchq.github.io/CyberChef/#input=ZXpCek1VNDNYekZUWDBaVlRpRjk&oenc=65001&ieol=CRLF&oeol=CRLF
+edit
